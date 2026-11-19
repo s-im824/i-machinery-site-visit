@@ -1,0 +1,12 @@
+{
+  "name": "iMachinery Site Visit Report",
+  "short_name": "iMachinery",
+  "description": "Offline Site Visit Report application",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef3f7",
+  "theme_color": "#066699",
+  "icons": []
+}
